@@ -5,10 +5,10 @@
  * ARIJIT DAS
  * ***********************************************
  * 
- * Open source. You can fork this source code and help me to improve it.
+ * Open-source. You can fork this source code and help me to improve it.
  * 
  * This is my first time in JavaScript. 
- * Please note that I'm neither a professional programmer nor from computer science field. 
+ * Please note that I'm neither a professional programmer nor from the computer science field. 
  * But I love making & breaking things and playing with computers. I've written this code in my free time. 
  * So obviously this code might have been written in a stupid unprofessional way. Feel free to fix any issue.
  * Thank you so much.
