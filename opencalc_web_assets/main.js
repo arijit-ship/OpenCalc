@@ -509,7 +509,7 @@ let dtr = math.pi/180;   //      "dtr" Degree to radian --> a constant number.
 
 /** 
 * 
-* The function "argumentHandler()" is so broken. I don't know how fix it. All it should do is replace the argument 
+* The function "argumentHandler()" is so broken. I don't know how to fix it. All it should do is replace the argument 
 * of a trigonometric functions with "argument*dtr" when "Deg" button is selected in the UI. But this function
 * will NOT work if the input string has  multiple same trigonometric functions with same argument. 
 * For example, "sin(45)+sin(45)". The function "argumentHandler()" should convert this string into "sin(45*dtr)+sin(45*dtr)".
